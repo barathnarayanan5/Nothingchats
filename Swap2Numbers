@@ -9,6 +9,7 @@ public class Swap2Numbers {
 		a = a-b;//20
 		System.out.println(a+ "   "+ b);
 		System.out.println(b+ "   "+ a);
+dlkld
 		
 	}
 
